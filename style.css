@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navitem{
+    font-size: large;
+    color: black;
+}
+.section1{
+    height: auto;
+    display: flex;
+    width: 100%;
+}
+.content1{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.btn1{
+    margin-top: 30px;
+    width:150px;
+    height: 30px;
+    text-align: center;
+    background-color: orange;
+    border: none;
+}
+.sec1image{
+    margin-top: 70px;
+    margin-left: 160px;
+
+}
+.section2{
+    background-color: rgba(43, 220, 226, 0.384);
+    width: 100%;
+    margin-top: 130px;
+    margin-bottom: 30px;
+}
+.carditems{
+    margin-top: 40px;
+    margin-left: 150px;
+    padding-bottom: 30px;
+    
+}
+.btn2{
+    width:150px;
+    height: 30px;
+    text-align: center;
+    background-color: orange;
+    border: none;
+}
+.footer{
+    width:100%;
+    
+}
